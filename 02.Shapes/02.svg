@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg972"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="02.svg">
+  <defs
+     id="defs966" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="400"
+     inkscape:cy="557.14286"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1343"
+     inkscape:window-height="908"
+     inkscape:window-x="44"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata969">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#00ff00;stroke:#00ff00;stroke-width:0.264583"
+       id="path974"
+       sodipodi:type="arc"
+       sodipodi:cx="62.55386"
+       sodipodi:cy="72.432472"
+       sodipodi:rx="59.775478"
+       sodipodi:ry="57.991718"
+       sodipodi:start="5.1858169"
+       sodipodi:end="1.5606193"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="M 89.807882,20.819229 A 59.775478,57.991718 0 0 1 120.73301,85.745043 59.775478,57.991718 0 0 1 63.162186,130.42119" />
+    <circle
+       style="fill:#00ff00;stroke:#00ff00;stroke-width:0.264583"
+       id="path1024"
+       sodipodi:type="arc"
+       sodipodi:cx="95.183434"
+       sodipodi:cy="215.18335"
+       sodipodi:rx="60.445774"
+       sodipodi:ry="50"
+       sodipodi:start="5.1858095"
+       sodipodi:end="5.1711905"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 122.74267,170.68265 a 60.445774,50 0 0 1 26.33871,67.13457 60.445774,50 0 0 1 -81.063219,22.03227 60.445774,50 0 0 1 -26.931238,-66.97353 60.445774,50 0 0 1 80.866367,-22.52181" />
+  </g>
+</svg>
